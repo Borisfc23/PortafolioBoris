@@ -3,7 +3,7 @@
 :root {
   --header-height: 3rem;
 
-  --hue-color: 240;
+  --hue-color: 199;
 
   --first-color: hsl(var(--hue-color), 69%, 61%);
   --first-color-second: hsl(var(--hue-color), 69%, 61%);
@@ -417,22 +417,22 @@ img {
   width: 100%;
 }
 .skills__css {
-  width: 90%;
+  width: 100%;
 }
 .skills__sass {
   width: 80%;
 }
 .skills__js {
-  width: 80%;
+  width: 95%;
 }
 .skills__react {
-  width: 60%;
+  width: 90%;
 }
 .skills__php {
-  width: 65%;
+  width: 85%;
 }
 .skills__node {
-  width: 50%;
+  width: 80%;
 }
 .skills__figma {
   width: 85%;
