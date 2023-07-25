@@ -471,6 +471,10 @@ img {
   font-size: 1.8rem;
   margin-right: var(--mb-0-25);
 }
+.dev__icon {
+  font-size: 1.4rem;
+  margin-right: var(--mb-0-25);
+}
 .qualification__data {
   display: grid;
   grid-template-columns: 1fr max-content 1fr;
